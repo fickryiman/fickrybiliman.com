@@ -11,7 +11,7 @@
   Previous iterations:
   <!-- <a href="https://github.com/biliman/my-react-portofolio" target="_blank">My Portofolio</a>, -->
   <!-- <a href="https://github.com/biliman/My-Blog " target="_blank">My Blog</a>, -->
-  <a href="https://fickryiman.github.io/" target="_blank">github.io</a>
+  <a href="https://fickryiman.github.io/" target="_blank">my github.io</a>
 </p>
 
 ![demo](https://github.com/fickryiman/fickrybiliman.com/blob/main/src/images/demo.png)
