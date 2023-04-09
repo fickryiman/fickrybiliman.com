@@ -14,7 +14,7 @@
   <a href="https://github.com/biliman/biliman.github.io" target="_blank">github io</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/biliman/personal-website/main/src/images/demo.png)
+![demo](https://github.com/fickryiman/fickrybiliman.com/blob/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
